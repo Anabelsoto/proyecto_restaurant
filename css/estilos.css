@@ -1,0 +1,63 @@
+.navbar-right {
+    float: right!important;
+    margin-right: -15px;
+}
+.navbar-nav {
+    float: left;
+    margin: 0;
+}
+.nav {
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+}
+
+ol, ul {
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+
+.navbar-nav>li {
+    float: left;
+}
+
+.navbar-nav>li>a {
+    color: #333;
+    font-size: 14px;
+    text-transform: uppercase;
+    text-decoration: none;
+    box-shadow: none;
+    padding-left: 10px;
+    padding-right: 10px;
+    line-height: 75px;
+}
+
+.navbar-nav>li>a {
+    /* padding-top: 15px; */
+    padding-bottom: 15px;
+}
+.row img .car1 {
+    width: 3%;
+    height: 3%;
+}
+
+div.imga1{
+    background: yellow;
+
+}
+.imga1 {​​
+  padding: 5px 10px 5px 10px;
+  margin: 2px;
+  float: left;
+  width: 200px;
+  text-align: center;
+}​​
